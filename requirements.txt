@@ -1,0 +1,12 @@
+imbalanced-learn==0.12.4
+lightgbm==4.5.0
+matplotlib==3.8.3
+numpy==1.26.4
+optuna==4.0.0
+pandas==2.2.0
+scikit-learn==1.6.0
+scikit-learn-extra==0.3.0
+scipy==1.13.1
+seaborn==0.13.2
+shap==0.46.0
+xgboost==2.1.1
